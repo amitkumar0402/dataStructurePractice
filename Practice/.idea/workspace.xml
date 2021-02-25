@@ -1,0 +1,3615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/Ig/binarySearch/BitonicArrayMax.java" description="int start = 0, end = arr.length - 1;" line="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e548d163-d03f-45cd-a214-f65f18e0649c" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Practice" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SortTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Ig/SortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Atoi.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Ig/string/Atoi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1139">
+              <caret line="67" column="29" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaximumPathSumFromRootToLeaf.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Ig/tree/MaximumPathSumFromRootToLeaf.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaximumPathSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Ig/tree/MaximumPathSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="41" selection-start-line="28" selection-start-column="4" selection-end-line="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchMatrix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Ig/matrix/SearchMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinStack.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Ig/systemDesign/MinStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="32" column="10" lean-forward="true" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConstantTimeDataStructure.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Ig/systemDesign/ConstantTimeDataStructure.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ElevatorControl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Ig/systemDesign/ElevatorControl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MergeSortArrays.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Ig/Arrays/MergeSortArrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrintNumberSeriesThread.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Ig/Threads/PrintNumberSeriesThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/Ig/Arrays/TripletInversionCount.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/systemDesign/LeastFrequentlyUsedCache.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/systemDesign/LeastFrequentlyUsedCacheDesign.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/string/BackSpaceCompareStringsEquality.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/dynamicProgram/MinimumJumpsToReachEnd.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/tree/BinaryTreeNode.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/tree/SerializeOrDeserializeBinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/tree/BinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/tree/InorderSuccesorOfBSt.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/tree/IterativeInorder.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/Arrays/PairWithGivenSum.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/Arrays/MissingElementinArray.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/Arrays/NextGreaterElement.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/systemDesign/MinStack.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/systemDesign/ConstantTimeDataStructure.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/string/Stack1.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/string/CheckBalancedParenthesis.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/tree/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/tree/VerticalSumOfBinaryTreeUsingDLL.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/tree/VerticalSumOfBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/tree/NodeLevel.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/tree/BottomViewOfBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/tree/TopViewOfBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/Arrays/SumofDigits.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/string/MinimumModificationtoMake2StringsAnagram.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/Arrays/MergeSortArrays.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/Arrays/MinimumNumberOfPlatforms.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/Arrays/SortArraysof01and2.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/xor/SingleNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/Arrays/TrappingRainWater.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/Arrays/MinimumJumps.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/Arrays/CountFrequencyOfArrayElements.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/heap/MergeKSortedArrays.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/Arrays/MaximumProfitForStockBuyAndSell.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/linkedlist/AddIntegersInLinkedListUsingRecursion.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/Arrays/NextGreaterElementUsingStack.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/Arrays/CelebrityProblem.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/linkedlist/SortLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/string/CountOfInput1InInput2.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/systemDesign/SudokuProblem.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/dynamicProgram/EditDistance.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/tree/Nodes.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/tree/IsomorphicTrees.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/dynamicProgram/StringInterleaving.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/linkedlist/ClonelInkedlIst.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/matrix/Spiralmatrix.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/linkedlist/IntersectionOfLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/SortTest.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/string/Atoi.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/tree/MaximumPathSumFromRootToLeaf.java" />
+        <option value="$PROJECT_DIR$/src/com/Ig/matrix/SearchMatrix.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="120" />
+    <option name="y" value="37" />
+    <option name="width" value="1400" />
+    <option name="height" value="837" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Ig" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Flight-Reservation-System" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\DEV\Practice\src\com\Ig\systemDesign" />
+      <recent name="C:\DEV\Practice\src\com\Ig\string" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.Ig.string" />
+      <recent name="com.Ig.Arrays" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.Ig.binarySearch" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SearchMatrix">
+    <configuration name="Atoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Ig.string.Atoi" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Ig.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="IntersectionOfLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Ig.linkedlist.IntersectionOfLinkedList" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Ig.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MaximumPathSumFromRootToLeaf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Ig.tree.MaximumPathSumFromRootToLeaf" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Ig.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SearchMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Ig.matrix.SearchMatrix" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Ig.matrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SortTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Ig.SortTest" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Ig.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <list>
+      <item itemvalue="Application.IntersectionOfLinkedList" />
+      <item itemvalue="Application.SortTest" />
+      <item itemvalue="Application.Atoi" />
+      <item itemvalue="Application.MaximumPathSumFromRootToLeaf" />
+      <item itemvalue="Application.SearchMatrix" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SearchMatrix" />
+        <item itemvalue="Application.MaximumPathSumFromRootToLeaf" />
+        <item itemvalue="Application.Atoi" />
+        <item itemvalue="Application.SortTest" />
+        <item itemvalue="Application.IntersectionOfLinkedList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e548d163-d03f-45cd-a214-f65f18e0649c" name="Default" comment="" />
+      <created>1541915181391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541915181391</updated>
+      <workItem from="1541915185612" duration="648000" />
+      <workItem from="1541999439553" duration="680000" />
+      <workItem from="1542086275804" duration="588000" />
+      <workItem from="1542173009858" duration="590000" />
+      <workItem from="1542344051501" duration="585000" />
+      <workItem from="1542603737532" duration="592000" />
+      <workItem from="1542687418757" duration="592000" />
+      <workItem from="1542695067185" duration="583000" />
+      <workItem from="1542775765720" duration="589000" />
+      <workItem from="1542865758552" duration="575000" />
+      <workItem from="1542945741043" duration="581000" />
+      <workItem from="1543209663058" duration="582000" />
+      <workItem from="1543291393405" duration="593000" />
+      <workItem from="1543383071038" duration="500000" />
+      <workItem from="1543462637616" duration="526000" />
+      <workItem from="1543468444619" duration="522000" />
+      <workItem from="1543551698872" duration="2818000" />
+      <workItem from="1544249804695" duration="596000" />
+      <workItem from="1544419448240" duration="547000" />
+      <workItem from="1544506003401" duration="519000" />
+      <workItem from="1544592492978" duration="491000" />
+      <workItem from="1544677456843" duration="480000" />
+      <workItem from="1544764737686" duration="500000" />
+      <workItem from="1545024050852" duration="535000" />
+      <workItem from="1545107400796" duration="501000" />
+      <workItem from="1545191175992" duration="519000" />
+      <workItem from="1545280534723" duration="542000" />
+      <workItem from="1545369483347" duration="493000" />
+      <workItem from="1545442840054" duration="464000" />
+      <workItem from="1545804920771" duration="542000" />
+      <workItem from="1546232928696" duration="518000" />
+      <workItem from="1546599705126" duration="474000" />
+      <workItem from="1546839749503" duration="466000" />
+      <workItem from="1547049201964" duration="475000" />
+      <workItem from="1547097534798" duration="509000" />
+      <workItem from="1547796050058" duration="483000" />
+      <workItem from="1551587324015" duration="735000" />
+      <workItem from="1552322865470" duration="511000" />
+      <workItem from="1553581373691" duration="531000" />
+      <workItem from="1553749219974" duration="3131000" />
+      <workItem from="1554702652607" duration="541000" />
+      <workItem from="1555391911897" duration="551000" />
+      <workItem from="1555916559363" duration="557000" />
+      <workItem from="1555996272658" duration="541000" />
+      <workItem from="1556138686932" duration="547000" />
+      <workItem from="1557815904082" duration="518000" />
+      <workItem from="1564231784161" duration="597000" />
+      <workItem from="1564739824747" duration="497000" />
+      <workItem from="1565083162770" duration="534000" />
+      <workItem from="1566714068172" duration="547000" />
+      <workItem from="1566902238670" duration="433000" />
+      <workItem from="1566999791181" duration="490000" />
+      <workItem from="1568623204088" duration="598000" />
+      <workItem from="1574401070254" duration="9792000" />
+      <workItem from="1574918778229" duration="541000" />
+      <workItem from="1575882664128" duration="1640000" />
+      <workItem from="1576471051577" duration="1046000" />
+      <workItem from="1577686634094" duration="362000" />
+      <workItem from="1577763405712" duration="493000" />
+      <workItem from="1577846174855" duration="489000" />
+      <workItem from="1578979734838" duration="545000" />
+      <workItem from="1581159202632" duration="12476000" />
+      <workItem from="1582090832065" duration="11714000" />
+      <workItem from="1582783113447" duration="522000" />
+      <workItem from="1583994674751" duration="1154000" />
+      <workItem from="1584421539226" duration="218000" />
+      <workItem from="1594818882375" duration="1242000" />
+      <workItem from="1594887459515" duration="1070000" />
+      <workItem from="1595315628688" duration="556000" />
+      <workItem from="1595574402854" duration="482000" />
+      <workItem from="1595836662323" duration="543000" />
+      <workItem from="1596048857203" duration="516000" />
+      <workItem from="1596249860102" duration="1809000" />
+      <workItem from="1596517839053" duration="558000" />
+      <workItem from="1596804700576" duration="655000" />
+      <workItem from="1597050733155" duration="3402000" />
+      <workItem from="1597291080445" duration="578000" />
+      <workItem from="1597293087844" duration="1192000" />
+      <workItem from="1598035026417" duration="562000" />
+      <workItem from="1598253122890" duration="510000" />
+      <workItem from="1598637976722" duration="3158000" />
+      <workItem from="1598975744392" duration="467000" />
+      <workItem from="1599059884717" duration="503000" />
+      <workItem from="1599103363426" duration="193000" />
+      <workItem from="1599222308104" duration="25494000" />
+      <workItem from="1599850831354" duration="62511000" />
+      <workItem from="1600261861647" duration="11204000" />
+      <workItem from="1600747388442" duration="66520000" />
+      <workItem from="1601710851277" duration="750000" />
+      <workItem from="1601712874520" duration="157543000" />
+      <workItem from="1602661147150" duration="44478000" />
+      <workItem from="1603117156864" duration="61898000" />
+      <workItem from="1603798936501" duration="35491000" />
+      <workItem from="1604351107463" duration="1557000" />
+      <workItem from="1604376245267" duration="27798000" />
+      <workItem from="1604650972327" duration="535000" />
+      <workItem from="1604686088024" duration="18952000" />
+      <workItem from="1605073356782" duration="2997000" />
+      <workItem from="1605121010152" duration="178000" />
+      <workItem from="1605157991179" duration="591000" />
+      <workItem from="1605168862797" duration="584000" />
+      <workItem from="1605172430398" duration="8089000" />
+      <workItem from="1605666733891" duration="1830000" />
+      <workItem from="1606150285929" duration="594000" />
+      <workItem from="1606364602599" duration="2903000" />
+      <workItem from="1606731683550" duration="4934000" />
+      <workItem from="1606980887707" duration="55115000" />
+      <workItem from="1608041994568" duration="19075000" />
+      <workItem from="1608707969885" duration="13506000" />
+      <workItem from="1609303205513" duration="2534000" />
+      <workItem from="1609655897207" duration="11459000" />
+      <workItem from="1609976707133" duration="96535000" />
+      <workItem from="1611129045007" duration="3474000" />
+      <workItem from="1611240339262" duration="6735000" />
+      <workItem from="1611282416849" duration="32469000" />
+      <workItem from="1611548370844" duration="15036000" />
+      <workItem from="1611857600219" duration="23792000" />
+      <workItem from="1612160989628" duration="92240000" />
+      <workItem from="1612950560378" duration="591000" />
+      <workItem from="1612993761944" duration="4295000" />
+      <workItem from="1613065049720" duration="48850000" />
+      <workItem from="1614099443018" duration="8584000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1064366000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="PlantUML" order="2" weight="0.3295302" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4986577" weight="0.32909605" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49932885" weight="0.32768363" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5174497" side_tool="true" weight="0.32768363" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.3295302" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48255032" visible="true" weight="0.32768363" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4986577" weight="0.32627118" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.73882353" visible="true" weight="0.29194632" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3295302" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.24966443" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="2" sideWeight="0.26117647" side_tool="true" weight="0.20402685" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.47785234" weight="0.3997175" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32909605" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3147651" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.32909605" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/QuickFindUf.java</url>
+          <line>27</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/QuickFindUf.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/QuickFindUf.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/QuickFindUf.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/QuickFindUf.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/QuickFindUf.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/QuickFindUf.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/QuickFindUf.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/QuickFindUf.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/QuickFindUf.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/LRUCache.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/LRUCache.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/LRUCache.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/LRUCache.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/LRUCache.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/LRUCache.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/LRUCache.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/LRUCache.java</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/LRUCache.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/LRUCache.java</url>
+          <line>103</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/LRUCache.java</url>
+          <line>99</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/LRUCache.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/LRUCache.java</url>
+          <line>83</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/LRUCache.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/LRUCache.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/LRUCache.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/LRUCache.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/LRUCache.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/LRUCache.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/LRUCache.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/LRUCache.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/TinyUrl.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/TinyUrl.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/TinyUrl.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/TinyUrl.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/TinyUrl.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/graph/QueueWithTwoStacks.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/graph/Stack.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/graph/Stack.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/tree/BinarySearchTree.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/tree/BinarySearchTree.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/Tuple.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/PinCode.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/PinCode.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/PinCodeProblem.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/PinCodeProblem.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/PinCodeProblem.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/PinCodeProblem.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/LRUCache.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/LRUCache.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/linkedlist/SinglyLinkedList.java</url>
+          <line>166</line>
+          <properties />
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/linkedlist/SinglyLinkedList.java</url>
+          <line>203</line>
+          <properties />
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/CheckFirstUnique.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/CheckFirstUnique.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/CheckFirstUnique.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/CheckFirstUnique.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/CheckFirstUnique.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/SymmetricPairs.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/SymmetricPairs.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/ProductArray.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/ProductArray.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/RotateArrayByNElements.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/RotateArrayByNElements.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/RotateArrayByNElements.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MaxHeap.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MaxHeap.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MaxHeap.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MaxHeap.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/tree/LevelOrderTraversal.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/tree/LevelOrderTraversal.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/tree/LevelOrderTraversal.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/tree/LevelOrderTraversal.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MaximumKSubArray.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MaximumKSubArray.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/linkedlist/SinglyLinkedList.java</url>
+          <line>170</line>
+          <properties />
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/LengthofLongestSubstring.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/LengthofLongestSubstring.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/LongestSubstring.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/LongestSubstring.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MergeSortedArrays.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MergeSortedArrays.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MoveZeros.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MoveZeros.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/MinimumFlips.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/MinimumFlips.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/MinimumFlips.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/MinimumFlips.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/PermutationOfString.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/PermutationOfString.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/PermutationOfString.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/PermutationOfString.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/PermutationOfString.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/ReverseWords.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/ReverseWords.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/ReverseWords.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/ReverseWords.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/Subset.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/Subset.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/CoinChange.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/CoinChange.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/CoinChangeBottomUp.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/CoinChangeBottomUp.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/CoinChangeBottomUp.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/graph/NumberOfIslands.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/graph/NumberOfIslands.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/graph/NumberOfIslands.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/graph/NumberOfIslands.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/graph/NumberOfIslands.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/tree/AllPathsForSum.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/tree/AllPathsForSum.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/tree/AllPathsForSum.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/tree/AllPathsForSum.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/tree/AllPathsForSum.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/tree/AllPathsForSum.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/RemoveDuplicates.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/RemoveDuplicates.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/RemoveDuplicates.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/BackSpaceCompare.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/BackSpaceCompare.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/BackSpaceCompare.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/linkedlist/HappyNumber.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/linkedlist/HappyNumber.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/linkedlist/HappyNumber.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MissingNumbers.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MissingNumbers.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MissingNumbers.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MissingNumbers.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Threads/PrintNaturalNumbers.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Threads/PrintNaturalNumbers.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Threads/PrintNaturalNumbers.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Threads/PrintNaturalNumbers.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Threads/PrintNaturalNumbers.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Threads/PrintNaturalNumbers.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Threads/PrintNaturalNumbers.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Threads/PrintNaturalNumbers.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Threads/PrintNaturalNumbers.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Threads/PrintNaturalNumbers.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Threads/PrintNaturalNumbers.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Threads/PrintNaturalNumbers.java</url>
+          <line>70</line>
+          <properties />
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Threads/PrintNaturalNumbers.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Threads/PrintNaturalNumbers.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Threads/PrintNaturalNumbers.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/EggDropping.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/EggDropping.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/EggDropping.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/EggDropping.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/EggDropping.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/EggDropping.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/EggDropping.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/EggDropping.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/EggDropping.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/SubArraysWithProductLessThank.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/SubArraysWithProductLessThank.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/SubArraysWithProductLessThank.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/SubArraysWithProductLessThank.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/SubArraysWithProductLessThank.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/mergeIntervals/MergeIntervals.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/mergeIntervals/MergeIntervals.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/mergeIntervals/MergeIntervals.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/mergeIntervals/MergeIntervals.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/mergeIntervals/MergeIntervals.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/mergeIntervals/MergeIntervals.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/mergeIntervals/MergeIntervals.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/mergeIntervals/MergeIntervals.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/KthSmallestinSortedArrays.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/KthSmallestinSortedArrays.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/KthSmallestinSortedArrays.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/KthSmallestinSortedArrays.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/KthSmallestinSortedArrays.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/KthSmallestinSortedArrays.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/KthSmallestinSortedArrays.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/KthSmallestinSortedArrays.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/RearrangeStringKDistanceApart.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/RearrangeStringKDistanceApart.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/RearrangeStringKDistanceApart.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/RearrangeStringKDistanceApart.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/RearrangeStringKDistanceApart.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="287" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/RearrangeStringKDistanceApart.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="288" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/RearrangeStringKDistanceApart.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="289" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MinimumDistance.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MinimumDistance.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="291" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MinimumDistance.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MinimumDistance.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MinimumDistance.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MinimumDistance.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/RearrangeString.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="296" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/RearrangeString.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/RearrangeString.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/RearrangeString.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/RearrangeString.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/RearrangeString.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="301" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/RearrangeString.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="302" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/RearrangeString.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="303" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/TaskScheduler.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="304" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/TaskScheduler.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="305" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/TaskScheduler.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/TaskScheduler.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/TaskScheduler.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="308" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/TaskScheduler.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="309" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/TaskScheduler.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="310" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/TaskScheduler.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="311" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/TaskScheduler.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="312" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/xor/SingleNumber.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="313" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/xor/SingleNumber.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="314" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/xor/SingleNumber.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="315" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/xor/SingleNumber.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/xor/FlipSolution.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/xor/FlipSolution.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="318" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/xor/FlipSolution.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="319" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/xor/FlipSolution.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="320" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/xor/FlipSolution.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="321" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/CreatePalindromicSubstrings.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="322" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/CreatePalindromicSubstrings.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="323" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/CreatePalindromicSubstrings.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="324" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/CreatePalindromicSubstrings.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="325" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/KthLargestNumbersInStream.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="327" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/KthLargestNumbersInStream.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="328" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/KthLargestNumbersInStream.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="329" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/KthLargestNumbersInStream.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="330" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/KthLargestNumbersInStream.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="332" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/KthLargestNumbersInStream.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="333" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/PermutationsofNumbers.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/PermutationsofNumbers.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="335" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/PermutationsofNumbers.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="336" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/PermutationsofNumbers.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="337" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/PermutationsofNumbers.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="338" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/PermutationsofNumbers.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="339" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/PermutationsofNumbers.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="340" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/PermutationOfString.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="341" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/PermutationOfString.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="342" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/PermutationOfString.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="343" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/PermutationOfString.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="344" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/RearrangePositiveAndNegativeNumber.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="345" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/RearrangePositiveAndNegativeNumber.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="346" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/RearrangePositiveAndNegativeNumber.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="347" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/RearrangePositiveAndNegativeNumber.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="348" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/RearrangePositiveAndNegativeNumber.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="349" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/RearrangePositiveAndNegativeNumber.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="350" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/RearrangePositiveAndNegativeNumber.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="351" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/SegregateEvenAndOddNumber.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="352" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/SegregateEvenAndOddNumber.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/SegregateEvenAndOddNumber.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="354" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/SegregateEvenAndOddNumber.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="355" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/SegregateEvenAndOddNumber.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="357" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/FindMinimumInSortedAndRotatedArray.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="358" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/FindMinimumInSortedAndRotatedArray.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="359" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/FindMinimumInSortedAndRotatedArray.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="360" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/FindMinimumInSortedAndRotatedArray.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="361" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/LPS.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="362" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/trie/LexicographicSortingUsingTrie1.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="368" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/trie/LexicographicSortingUsingTrie1.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="369" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/trie/LexicographicSortingUsingTrie1.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="370" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MinimumCostToConnectRopes.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="374" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MinimumCostToConnectRopes.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="375" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MinimumCostToConnectRopes.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="376" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MinimumCostToConnectRopes.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="377" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MinimumCostToConnectRopes.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="378" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/MinStack.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="379" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/MinStack.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="380" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/MinStack.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="381" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/MinStack.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="382" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/MinStack.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="383" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/MinStack.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="384" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/MinStack.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="385" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/MinStack.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="386" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/MinStack.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="387" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/CheckBalancedParenthesis.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/CheckBalancedParenthesis.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="389" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/CheckBalancedParenthesis.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="391" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/CheckBalancedParenthesis.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="392" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/CheckBalancedParenthesis.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="393" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/CheckBalancedParenthesis.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="394" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/ConstantTimeDataStructure.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="395" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/ConstantTimeDataStructure.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/ConstantTimeDataStructure.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="397" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/ConstantTimeDataStructure.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="398" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/ConstantTimeDataStructure.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="399" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/ConstantTimeDataStructure.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="400" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/ConstantTimeDataStructure.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="401" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/ConstantTimeDataStructure.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="402" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/ConstantTimeDataStructure.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="404" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/ConstantTimeDataStructure.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="405" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/tree/TopViewOfBinaryTree.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="421" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/tree/TopViewOfBinaryTree.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="428" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/tree/TopViewOfBinaryTree.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="429" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/tree/TopViewOfBinaryTree.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="430" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/tree/TopViewOfBinaryTree.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="432" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/tree/TopViewOfBinaryTree.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="433" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/tree/TopViewOfBinaryTree.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="434" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/tree/TopViewOfBinaryTree.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="435" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/tree/TopViewOfBinaryTree.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="436" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/linkedlist/RearrangeList.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="438" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/linkedlist/RearrangeList.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="439" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/linkedlist/RearrangeList.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="440" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/linkedlist/RearrangeList.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="441" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/linkedlist/RearrangeList.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="442" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/linkedlist/RearrangeList.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="443" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/linkedlist/RearrangeList.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="444" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/linkedlist/RearrangeList.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="445" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/linkedlist/RearrangeList.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="446" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/linkedlist/RearrangeList.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="447" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/linkedlist/RearrangeList.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="449" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/linkedlist/RearrangeList.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="450" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/linkedlist/RearrangeList.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="451" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/linkedlist/RearrangeList.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="452" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/linkedlist/RearrangeList.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="453" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/linkedlist/RearrangeList.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="454" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/linkedlist/RearrangeList.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="455" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/SumofDigits.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="456" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/SumofDigits.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="457" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/SumofDigits.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="461" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/SumofDigits.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="462" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/SumofDigits.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="464" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/SumofDigits.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="465" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/SumofDigits.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="466" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/binarySearch/BitonicArrayMax.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="468" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/binarySearch/BitonicArrayMax.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="471" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/binarySearch/BitonicArrayMax.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="472" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/binarySearch/BitonicArrayMax.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="473" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/binarySearch/BitonicArrayMax.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="474" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/binarySearch/BitonicArrayMax.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="475" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/binarySearch/BitonicArrayMax.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="476" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/binarySearch/BitonicArrayMax.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="478" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/matrix/Spiralmatrix.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="486" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/matrix/Spiralmatrix.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="487" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/matrix/Spiralmatrix.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="488" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/matrix/Spiralmatrix.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="489" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/matrix/Spiralmatrix.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="490" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/matrix/Spiralmatrix.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="491" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/matrix/Spiralmatrix.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="492" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/matrix/Spiralmatrix.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="493" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/matrix/Spiralmatrix.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="494" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MinimumJumps.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="495" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MinimumJumps.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="496" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MinimumJumps.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="497" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MinimumJumps.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="498" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MinimumJumps.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="499" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MinimumJumps.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="500" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MinimumJumps.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="501" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MinimumJumps.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="502" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MinimumJumps.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="503" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MinimumJumps.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="504" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MinimumJumps.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="505" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/CountFrequencyOfArrayElements.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="506" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/CountFrequencyOfArrayElements.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="507" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/CountFrequencyOfArrayElements.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="508" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/CountFrequencyOfArrayElements.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="509" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/NextGreaterElementUsingStack.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="512" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MergeKSortedArrays.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="513" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MergeKSortedArrays.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="514" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MergeKSortedArrays.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="515" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MergeKSortedArrays.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="516" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MergeKSortedArrays.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="517" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MergeKSortedArrays.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="518" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MergeKSortedArrays.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="519" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MergeKSortedArrays.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="520" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/RearrangePositiveAndNegativeNumber.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="521" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/RearrangePositiveAndNegativeNumber.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="522" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MaximumProfitForStockBuyAndSell.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="523" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MaximumProfitForStockBuyAndSell.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="524" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MaximumProfitForStockBuyAndSell.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="525" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MaximumProfitForStockBuyAndSell.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="526" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MaximumProfitForStockBuyAndSell.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="527" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MaximumProfitForStockBuyAndSell.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="529" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/MaximumProfitForStockBuyAndSell.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="530" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/CelebrityProblem.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="531" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/CelebrityProblem.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="533" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/CelebrityProblem.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="534" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/CelebrityProblem.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="535" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/CelebrityProblem.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="536" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/CelebrityProblem.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="537" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/Arrays/CelebrityProblem.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="538" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/LengthofLongestSubstring.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="539" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/LengthofLongestSubstring.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="540" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/LengthofLongestSubstring.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="541" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/LengthofLongestSubstring.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="542" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/LengthofLongestSubstring.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="543" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/LengthofLongestSubstring.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="544" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/LengthofLongestSubstring.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="545" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/CountOfInput1InInput2.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="546" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/CountOfInput1InInput2.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="547" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/CountOfInput1InInput2.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="548" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/CountOfInput1InInput2.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="549" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/CountOfInput1InInput2.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="550" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/CountOfInput1InInput2.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="551" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/SudokuProblem.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="552" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/SudokuProblem.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="553" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/SudokuProblem.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="554" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/SudokuProblem.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="555" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/SudokuProblem.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="556" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/SudokuProblem.java</url>
+          <line>94</line>
+          <properties />
+          <option name="timeStamp" value="557" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/SudokuProblem.java</url>
+          <line>101</line>
+          <properties />
+          <option name="timeStamp" value="558" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/SudokuProblem.java</url>
+          <line>105</line>
+          <properties />
+          <option name="timeStamp" value="559" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/SudokuProblem.java</url>
+          <line>109</line>
+          <properties />
+          <option name="timeStamp" value="560" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/SudokuProblem.java</url>
+          <line>111</line>
+          <properties />
+          <option name="timeStamp" value="561" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/SudokuProblem.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="562" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/SudokuProblem.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="564" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/SudokuProblem.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="565" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/systemDesign/SudokuProblem.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="566" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/TopKFrequentNumbers.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="568" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/TopKFrequentNumbers.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="569" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/TopKFrequentNumbers.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="570" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/TopKFrequentNumbers.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="571" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/TopKFrequentNumbers.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="572" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/TopKFrequentNumbers.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="573" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/TopKFrequentNumbers.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="574" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/TopKFrequentNumbers.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="575" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/TopKFrequentNumbers.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="576" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/StringInterleaving.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="577" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/StringInterleaving.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="578" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/StringInterleaving.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="579" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/StringInterleaving.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="580" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/StringInterleaving.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="581" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/StringInterleaving.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="582" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/StringInterleaving.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="583" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/StringInterleaving.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="584" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/StringInterleaving.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="585" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/StringInterleaving.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="586" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MedianOfStream.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="587" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MedianOfStream.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="588" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MedianOfStream.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="589" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MedianOfStream.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="590" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MedianOfStream.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="591" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MedianOfStream.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="592" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MedianOfStream.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="593" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MedianOfStream.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="594" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MedianOfStream.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="595" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MedianOfStream.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="596" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MedianOfStream.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="597" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MedianOfStream.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="598" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MedianOfStream.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="599" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/heap/MedianOfStream.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="600" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/Atoi.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="601" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/Atoi.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="602" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/Atoi.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="603" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/Atoi.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="604" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/Atoi.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="605" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/Ig/string/Atoi.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="606" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/LongestCommonSubstring.java</url>
+          <line>19</line>
+          <properties class="com.Ig.dynamicProgram.LongestCommonSubstring" method="findLcsLengthRecursiveSolution">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="607" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>'0'</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>str.charAt(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>knows(i, X)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i != X &amp;&amp; (knows(X, i) || !knows(i, X))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>if (i != X &amp;&amp; (knows(X, i) || !knows(i, X)))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>node.elementIndex</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>lists.get(node.arrayIndex).length</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>secondHalf.next</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>secondHalf</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/Arrays/SecondMaximum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/tree/IdenticalBinaryTrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/tree/MirrorNodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/tree/InorderSuccesorOfBSt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/tree/CheckNnodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/tree/KthMaximum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/tree/LowestCommonAncestor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/tree/IterativeInorder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/EditDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="28" column="2" lean-forward="true" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/EggDropping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/dynamicProgram/StringInterleaving.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/string/PermutationOfString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/heap/MedianOfStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/heap/MinimumCostToConnectRopes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/Arrays/CelebrityProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="50" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/Arrays/CountFrequencyOfArrayElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/Arrays/FindMinimumInSortedAndRotatedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/Arrays/FindTriplets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/Arrays/Kadane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/Arrays/MaximumProfitForStockBuyAndSell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="54" column="38" lean-forward="true" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/Arrays/MaximumKSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="4" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/Arrays/MaximumProductSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/Arrays/MedianOfSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/Arrays/MinimumJumps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/Arrays/MinimumNumberOfPlatforms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/Arrays/NextGreaterElementUsingStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/Arrays/MissingElementinArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/Arrays/RearrangePositiveAndNegativeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="79" column="34" lean-forward="true" selection-start-line="79" selection-start-column="34" selection-end-line="79" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/TestThreads.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/Threads/PrintNaturalNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="48" column="10" lean-forward="true" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/Threads/NumberEmployeeUnderManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/linkedlist/PalindromicLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/matrix/Spiralmatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/linkedlist/HappyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/linkedlist/LinkedListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/linkedlist/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/linkedlist/IntersectionOfLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/linkedlist/ClonelInkedlIst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="7" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/SortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/string/Atoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="67" column="29" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/tree/MaximumPathSumFromRootToLeaf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/tree/MaximumPathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="41" selection-start-line="28" selection-start-column="4" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/matrix/SearchMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/systemDesign/MinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="32" column="10" lean-forward="true" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/systemDesign/ConstantTimeDataStructure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/systemDesign/ElevatorControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/Arrays/MergeSortArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Ig/Threads/PrintNumberSeriesThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
